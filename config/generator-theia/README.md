@@ -9,8 +9,8 @@ In the generator-theia directory:
 - `npm install -g yo` to install yo globally
 
 In the example root directory:
-- `yo theia:browser` to generate the browser app
-- `yo theia:electron` to generate the electron app
+- `npm install npm-cli && yo theia:browser` to generate the browser app
+- `npm install npm-cli && yo theia:electron` to generate the electron app
 
 Overwrite all existing files if any.
 
